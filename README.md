@@ -1,8 +1,6 @@
 
-<h1 align="center">
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+😀;nice+to+meet+you+🎉;&center=true&size="30">
-  </a>
+<h1 style="display:">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=46&duration=2000&pause=1000&color=6777EF&center=true&vCenter=true&multiline=true&width=600&height=300&lines=Hi+There+%F0%9F%91%8B;Hope+You+Are+Doing+Well;Cheers+Nati+%F0%9F%A5%82" alt="Typing SVG" /></a>
 </h1>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)

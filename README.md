@@ -59,6 +59,23 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
 
 * ⚙️**Tech Stack Optimization** - Evaluating and implementing best-of-breed technologies across the stack, from frontend frameworks to backend systems and database strategies
 
+## Featured blogs/articles
+  ##### Tech Blog
+-  [12 Types of Databases: A Comprehensive Guide](https://nc555.vercel.app/blog/12-types-of-databases)
+-  [Building Reliable REST APIs with Idempotency](https://nc555.vercel.app/blog/building-reliable-rest-apis-with-idempotency)
+-  [25+ Free and Open APIs for Developers](https://nc555.vercel.app/blog/free-and-open-apis-for-developers)
+-  [from-containers-to-cloud-native-apps](https://nc555.vercel.app/blog/from-containers-to-cloud-native-apps)
+-  [Monolith vs Microservices](https://nc555.vercel.app/blog/software-architecture-patterns)
+-  [Web Application Performance](https://nc555.vercel.app/blog/web-app-performance)
+
+
+## 🛠️ List of cool stuff that went into this profile README
+
+- [**Generate snake game from Github contribution grid**](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+
+- [**Readme Typing SVG**](https://readme-typing-svg.herokuapp.com/demo/)
+
+
 <!--
 ## 📊 GitHub Stats:
 
@@ -76,12 +93,5 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
   </div>
 </div>
 -->
-
-## 🛠️ List of cool stuff that went into this profile README
-
-- [**Generate snake game from Github contribution grid**](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
-
-- [**Readme Typing SVG**](https://readme-typing-svg.herokuapp.com/demo/)
-
 
 

@@ -1,10 +1,9 @@
 
-<h1 style="display:">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=46&duration=2000&pause=1000&color=6777EF&center=true&vCenter=true&multiline=true&width=600&height=300&lines=Hi+There+%F0%9F%91%8B;Hope+You+Are+Doing+Well;Cheers+Nati+%F0%9F%A5%82" alt="Typing SVG" /></a>
+<h1 style"display:flex; justify-content:center">
+<a href="https://nc555.vercel.app"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=46&duration=1000&color=6777EF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=220&lines=Hi+There+%F0%9F%91%8B;Hope+You+Are+Doing+Well;Cheers+Nati+%F0%9F%A5%82" alt="Typing SVG" /></a>
 </h1>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ## 🛠️ Technologies
 
@@ -22,6 +21,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=plastic&logo=rabbitmq&logoColor=white) ![Docker Swarm](https://img.shields.io/badge/docker%20swarm-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=nc555&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=nc555&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nc555&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=nc555&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nc555&theme=dark&hide_border=false)<br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nc555&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/><br/>

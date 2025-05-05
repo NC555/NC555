@@ -31,9 +31,10 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=plastic&logo=rabbitmq&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)  
 
-
+<!--
 ## 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-bottom: 30px; display:none;">
+
+<div style="display: none; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-bottom: 30px;">
   <div style="flex: 1; min-width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden;">
     <img src="https://github-readme-stats.vercel.app/api?username=nc555&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="100%" height="100%" style="display: block;">
   </div>
@@ -46,3 +47,13 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nc555&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%" height="100%" style="display: block;">
   </div>
 </div>
+-->
+
+## 🛠️ List of cool stuff that went into this profile README
+
+- [**Generate snake game from Github contribution grid**](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+
+- [**Readme Typing SVG**](https://readme-typing-svg.herokuapp.com/demo/)
+
+
+

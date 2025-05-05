@@ -5,7 +5,19 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## 🛠️ Technologies
+## 🌐 Overview
+
+### 👋 About Me
+
+I'm a technology leader with extensive experience architecting enterprise SaaS platforms and orchestrating distributed development teams across multiple domains. Passionate about transforming complex technical concepts into tangible business outcomes through strategic roadmapping and innovative solutions.
+
+* 🏢 Currently serving as **Chief Technology Officer** at Logisoft, where I architect scalable enterprise platforms and lead development teams across frontend, backend, mobile, and cloud infrastructure
+* 💻 Building systems that deliver 99.9% uptime for mission-critical applications through progressive web applications and distributed caching
+* 🤝 Volunteering as **CIO & Strategic Advisor** at Win Assist NGO, bridging technology and mental rehabilitation domains
+* 🌐 Applying enterprise-grade methodologies to non-profit challenges, creating sustainable technical solutions with limited resources
+* 🎓 Executive MBA from Ben-Gurion University of the Negev & B.Sc Information Systems Engineering from SCE
+
+### ⚙️ Technologies
 
 ###### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -31,7 +43,7 @@
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=plastic&logo=rabbitmq&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)  
 
-## 🚀⚙️ Talk to me about:
+## 📞 Talk to me about:
 
 * 🏗️**Enterprise Architecture & Scalability**  - Designing containerized microservices that scale predictably, API-first approaches, and hybrid database strategies balancing consistency with horizontal scaling
   

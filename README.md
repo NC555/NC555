@@ -5,7 +5,13 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-## 🌐 Overview
+### 🌐 Overview
+
+<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
+  <a href="cv.pdf" target="_blank" style="padding: 10px 20px; background-color: #6777EF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">CV</a>
+  <a href="portfolio.pdf" target="_blank" style="padding: 10px 20px; background-color: #6777EF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Portfolio</a>
+  <a href="https://linkedin.com/in/yourprofile" target="_blank" style="padding: 10px 20px; background-color: #6777EF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">LinkedIn</a>
+</div>
 
 ### 👋 About Me
 

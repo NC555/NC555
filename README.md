@@ -11,11 +11,11 @@
   <a href="https://github.com/NC555/NC555/blob/main/cv.pdf" target="_blank" styles="text-decoration:none;">
     <img src="https://img.shields.io/badge/CV-View%20Resume-6777EF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Badge"/>
   </a>
-  <a href="https://nc555.online" target="_blank" styles="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6777EF?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge"/>
-  </a>
   <a href="https://www.linkedin.com/in/nati-cabti/" target="_blank" styles="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://nc555.online" target="_blank" styles="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6777EF?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
 

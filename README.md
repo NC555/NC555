@@ -7,10 +7,16 @@
 
 ### 🌐 Overview
 
-<div style="display: flex; justify-content: space-around; align-items: center; margin: 20px 0;">
-  <a href="cv.pdf" target="_blank" style="padding: 10px 20px; background-color: #6777EF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">CV</a>
-  <a href="portfolio.pdf" target="_blank" style="padding: 10px 20px; background-color: #6777EF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">Portfolio</a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank" style="padding: 10px 20px; background-color: #6777EF; color: white; text-decoration: none; border-radius: 5px; font-weight: bold;">LinkedIn</a>
+<div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+  <a href="https://github.com/NC555/NC555/blob/main/cv.pdf" target="_blank" styles="text-decoration:none;">
+    <img src="https://img.shields.io/badge/CV-View%20Resume-6777EF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Badge"/>
+  </a>
+  <a href="https://nc555.online" target="_blank" styles="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6777EF?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nati-cabti/" target="_blank" styles="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 ### 👋 About Me

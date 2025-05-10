@@ -6,7 +6,7 @@
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 ### 🌐 Overview
-<!--
+
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
   <a href="https://github.com/NC555/NC555/blob/main/cv.pdf" target="_blank" styles="text-decoration:none;">
     <img src="https://img.shields.io/badge/CV-View%20Resume-6777EF?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="CV Badge"/>
@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfolio-View%20Projects-6777EF?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </div>
--->
+
 
 ### 👋 About Me
 

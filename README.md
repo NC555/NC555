@@ -83,12 +83,12 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
 
 ## Featured blogs/articles
   ##### Tech Blog
--  [12 Types of Databases: A Comprehensive Guide](https://nc555.vercel.app/blog/12-types-of-databases)
--  [Building Reliable REST APIs with Idempotency](https://nc555.vercel.app/blog/building-reliable-rest-apis-with-idempotency)
--  [25+ Free and Open APIs for Developers](https://nc555.vercel.app/blog/free-and-open-apis-for-developers)
--  [from-containers-to-cloud-native-apps](https://nc555.vercel.app/blog/from-containers-to-cloud-native-apps)
--  [Monolith vs Microservices](https://nc555.vercel.app/blog/software-architecture-patterns)
--  [Web Application Performance](https://nc555.vercel.app/blog/web-app-performance)
+-  [12 Types of Databases: A Comprehensive Guide](https://nati.nc555.online/blog/12-types-of-databases)
+-  [Building Reliable REST APIs with Idempotency](https://nati.nc555.online/blog/building-reliable-rest-apis-with-idempotency)
+-  [25+ Free and Open APIs for Developers](https://nati.nc555.online/blog/free-and-open-apis-for-developers)
+-  [from-containers-to-cloud-native-apps](https://nati.nc555.online/blog/from-containers-to-cloud-native-apps)
+-  [Monolith vs Microservices](https://nati.nc555.online/blog/software-architecture-patterns)
+-  [Web Application Performance](https://nati.nc555.online/blog/web-app-performance)
 
 
 ## 🛠️ List of cool stuff that went into this profile README

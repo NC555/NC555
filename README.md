@@ -1,4 +1,4 @@
-    
+     
 <h1 style"display:flex; justify-content:center">
 <a href="https://nc555.vercel.app"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito&weight=600&size=72&duration=2000&pause=1&color=6777EF&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=300&lines=Hello+%F0%9F%91%8B;My+Name+Is+Nati;I+am+a+CTO" alt="Typing SVG" /></a>
 </h1>

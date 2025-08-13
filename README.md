@@ -64,6 +64,15 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
 ![Docker Swarm](https://img.shields.io/badge/docker%20swarm-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=plastic&logo=rabbitmq&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white)  
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=plastic&logo=ansible&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=plastic&logo=kubernetes&logoColor=white)
+![k3s](https://img.shields.io/badge/k3s-F1E05A?style=plastic&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%23000000.svg?style=plastic&logo=helm&logoColor=white)
+![CNCF](https://img.shields.io/badge/CNCF-0062FF?style=plastic&logo=cncf&logoColor=white)
+![Argo CD](https://img.shields.io/badge/argo%20cd-%23212121.svg?style=plastic&logo=argo-cd&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
 
 ## 📞 Talk to me about:
 
@@ -89,6 +98,14 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
 -  [from-containers-to-cloud-native-apps](https://nati.nc555.online/blog/from-containers-to-cloud-native-apps)
 -  [Monolith vs Microservices](https://nati.nc555.online/blog/software-architecture-patterns)
 -  [Web Application Performance](https://nati.nc555.online/blog/web-app-performance)
+
+
+## 📚 NC Docs
+[**NC Docs**](https://doc.nc555.online/) one-stop resource for modern infrastructure management, cloud architecture, cybersecurity, and development best practices. This documentation covers everything from setting up local development environments to deploying enterprise-grade cloud solutions
+1.  [Ubuntu Private Lab Setup](https://doc.nc555.online/ubuntu-private-lab/) - Build your first lab environment
+2.  [Cloud Security](https://doc.nc555.online/cyber-security/) - Cyber Security
+3.  [AWS Fundamentals](https://doc.nc555.online/aws/fundamentals/) - Understand cloud infrastructure basics
+4.  [Knowledge Base](https://doc.nc555.online/heap-knowledge-base/) - Plan your cloud architecture
 
 
 ## 🛠️ List of cool stuff that went into this profile README

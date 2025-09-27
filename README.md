@@ -5,7 +5,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
-### 🌐 Overview
+### Overview
 
 <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
   <a href="https://github.com/NC555/NC555/blob/main/cv.pdf" target="_blank" styles="text-decoration:none;">
@@ -21,17 +21,17 @@
 
 
 
-### 👋 About Me
+### About Me
 
 I'm a technology leader with extensive experience architecting enterprise SaaS platforms and orchestrating distributed development teams across multiple domains. Passionate about transforming complex technical concepts into tangible business outcomes through strategic roadmapping and innovative solutions.
 
-* 🏢 Currently serving as **Chief Technology Officer** at Logisoft, where I architect scalable enterprise platforms and lead development teams across frontend, backend, mobile, and cloud infrastructure
-* 💻 Building systems that deliver 99.9% uptime for mission-critical applications through progressive web applications and distributed caching
-* 🤝 Volunteering as **CIO & Strategic Advisor** at Win Assist NGO, bridging technology and mental rehabilitation domains
-* 🌐 Applying enterprise-grade methodologies to non-profit challenges, creating sustainable technical solutions with limited resources
-* 🎓 Executive MBA from Ben-Gurion University of the Negev & B.Sc Information Systems Engineering from SCE
+* Currently serving as **Chief Technology Officer** at Logisoft, where I architect scalable enterprise platforms and lead development teams across frontend, backend, mobile, and cloud infrastructure
+* Building systems that deliver 99.9% uptime for mission-critical applications through progressive web applications and distributed caching
+* Volunteering as **CIO & Strategic Advisor** at Win Assist NGO, bridging technology and mental rehabilitation domains
+* Applying enterprise-grade methodologies to non-profit challenges, creating sustainable technical solutions with limited resources
+* Executive MBA from Ben-Gurion University of the Negev & B.Sc Information Systems Engineering from SCE
 
-### ⚙️ Technologies
+### Technologies
 
 ###### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
@@ -74,21 +74,21 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
 
-## 📞 Talk to me about:
+## Talk to me about:
 
-* 🏗️**Enterprise Architecture & Scalability**  - Designing containerized microservices that scale predictably, API-first approaches, and hybrid database strategies balancing consistency with horizontal scaling
+* **Enterprise Architecture & Scalability**  - Designing containerized microservices that scale predictably, API-first approaches, and hybrid database strategies balancing consistency with horizontal scaling
   
-* 👥**Technical Leadership & Team Orchestration**  - Structuring distributed development teams across global time zones, implementing efficient CI/CD pipelines, and optimizing resource allocation using queue theory principles
+* **Technical Leadership & Team Orchestration**  - Structuring distributed development teams across global time zones, implementing efficient CI/CD pipelines, and optimizing resource allocation using queue theory principles
 
-* ☁️**Cloud Infrastructure & System Design**  - Creating resilient AWS cloud architectures, infrastructure-as-code solutions, and progressive web applications delivering 99.9% uptime
+* **Cloud Infrastructure & System Design**  - Creating resilient AWS cloud architectures, infrastructure-as-code solutions, and progressive web applications delivering 99.9% uptime
 
-* 🗺️**Strategic Technology Roadmapping**  - Translating complex technical concepts into measurable business outcomes, guiding enterprise SaaS evolution, and aligning technology with organizational growth objectives
+* **Strategic Technology Roadmapping**  - Translating complex technical concepts into measurable business outcomes, guiding enterprise SaaS evolution, and aligning technology with organizational growth objectives
 
-* 🔄**Data Systems & Integration**  - Building hybrid data solutions, optimizing warehouse management systems, and implementing event-driven architectures that eliminate process bottlenecks
+* **Data Systems & Integration**  - Building hybrid data solutions, optimizing warehouse management systems, and implementing event-driven architectures that eliminate process bottlenecks
 
-* 💡**Digital Transformation Initiatives** - Leveraging technology to solve cross-domain challenges in non-profit and enterprise contexts, designing sustainable technical solutions with measurable impact
+* **Digital Transformation Initiatives** - Leveraging technology to solve cross-domain challenges in non-profit and enterprise contexts, designing sustainable technical solutions with measurable impact
 
-* ⚙️**Tech Stack Optimization** - Evaluating and implementing best-of-breed technologies across the stack, from frontend frameworks to backend systems and database strategies
+* **Tech Stack Optimization** - Evaluating and implementing best-of-breed technologies across the stack, from frontend frameworks to backend systems and database strategies
 
 ## Featured blogs/articles
   ##### Tech Blog
@@ -100,7 +100,7 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
 -  [Web Application Performance](https://nati.nc555.online/blog/web-app-performance)
 
 
-## 📚 NC Docs
+## NC Docs
 [**NC Docs**](https://doc.nc555.online/) one-stop resource for modern infrastructure management, cloud architecture, cybersecurity, and development best practices. This documentation covers everything from setting up local development environments to deploying enterprise-grade cloud solutions
 1.  [Ubuntu Private Lab Setup](https://doc.nc555.online/ubuntu-private-lab/) - Build your first lab environment
 2.  [Cloud Security](https://doc.nc555.online/cyber-security/) - Cyber Security
@@ -108,7 +108,7 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
 4.  [Knowledge Base](https://doc.nc555.online/heap-knowledge-base/) - Plan your cloud architecture
 
 
-## 🛠️ List of cool stuff that went into this profile README
+## List of cool stuff that went into this profile README
 
 - [**Generate snake game from Github contribution grid**](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
@@ -118,7 +118,7 @@ I'm a technology leader with extensive experience architecting enterprise SaaS p
 
 
 <!--
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div style="display: none; flex-wrap: wrap; justify-content: space-between; gap: 20px; margin-bottom: 30px;">
   <div style="flex: 1; min-width: 300px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); border-radius: 10px; overflow: hidden;">
